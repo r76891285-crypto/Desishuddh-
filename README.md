@@ -156,9 +156,9 @@
 
 <section id="contact">
     <h2>संपर्क करें</h2>
-    <p>Email: desishuddh@example.com</p>
-    <p>फोन: +91 9876543210</p>
-    <a href="mailto:desishuddh@example.com" class="btn">ईमेल भेजें</a>
+    <p>Email: desishuddh49@example.com</p>
+    <p>फोन: +91 8544068642</p>
+    <ahref="mailto:desishuddh49@example.com" class="btn">ईमेल भेजें</a>
 </section>
 
 <footer>
