@@ -156,13 +156,13 @@
 
 <section id="contact">
     <h2>संपर्क करें</h2>
-    <p>Email: desishuddh49@example.com</p>
+    <p>Email: desishuddh49@gmail.com</p>
     <p>फोन: +91 8544068642</p>
-    <ahref="mailto:desishuddh49@example.com" class="btn">ईमेल भेजें</a>
+    <ahref="mailto:desishuddh49@gmail.com" class="btn">ईमेल भेजें</a>
 </section>
 
 <footer>
-    <p>&copy; 2025 Desi Shuddh. सभी अधिकार सुरक्षित।</p>
+    <p>&copy; RAVI YADAV Desi Shuddh. सभी अधिकार सुरक्षित।</p>
 </footer>
 
 </body>
